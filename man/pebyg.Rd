@@ -21,6 +21,10 @@ estimate the pe by growth
 \details{
 estimate the pe by growth
 }
+\examples{
+pebyg(c(0.5,0.3,0.3))
+  forever growth : pebyg(c(0.05),fg=0.05)
+}
 \author{
 xuyang
 }
